@@ -1,0 +1,14 @@
+D:\JordiMontilivi\Visual Studio\source\repos\Activitat 1.5\ex13\bin\Debug\net8.0\ex13.exe
+D:\JordiMontilivi\Visual Studio\source\repos\Activitat 1.5\ex13\bin\Debug\net8.0\ex13.deps.json
+D:\JordiMontilivi\Visual Studio\source\repos\Activitat 1.5\ex13\bin\Debug\net8.0\ex13.runtimeconfig.json
+D:\JordiMontilivi\Visual Studio\source\repos\Activitat 1.5\ex13\bin\Debug\net8.0\ex13.dll
+D:\JordiMontilivi\Visual Studio\source\repos\Activitat 1.5\ex13\bin\Debug\net8.0\ex13.pdb
+D:\JordiMontilivi\Visual Studio\source\repos\Activitat 1.5\ex13\obj\Debug\net8.0\ex13.GeneratedMSBuildEditorConfig.editorconfig
+D:\JordiMontilivi\Visual Studio\source\repos\Activitat 1.5\ex13\obj\Debug\net8.0\ex13.AssemblyInfoInputs.cache
+D:\JordiMontilivi\Visual Studio\source\repos\Activitat 1.5\ex13\obj\Debug\net8.0\ex13.AssemblyInfo.cs
+D:\JordiMontilivi\Visual Studio\source\repos\Activitat 1.5\ex13\obj\Debug\net8.0\ex13.csproj.CoreCompileInputs.cache
+D:\JordiMontilivi\Visual Studio\source\repos\Activitat 1.5\ex13\obj\Debug\net8.0\ex13.dll
+D:\JordiMontilivi\Visual Studio\source\repos\Activitat 1.5\ex13\obj\Debug\net8.0\refint\ex13.dll
+D:\JordiMontilivi\Visual Studio\source\repos\Activitat 1.5\ex13\obj\Debug\net8.0\ex13.pdb
+D:\JordiMontilivi\Visual Studio\source\repos\Activitat 1.5\ex13\obj\Debug\net8.0\ex13.genruntimeconfig.cache
+D:\JordiMontilivi\Visual Studio\source\repos\Activitat 1.5\ex13\obj\Debug\net8.0\ref\ex13.dll

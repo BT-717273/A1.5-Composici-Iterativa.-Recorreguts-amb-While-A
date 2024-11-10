@@ -1,0 +1,14 @@
+D:\JordiMontilivi\Visual Studio\source\repos\Activitat 1.5\ex01\bin\Debug\net8.0\ex01.exe
+D:\JordiMontilivi\Visual Studio\source\repos\Activitat 1.5\ex01\bin\Debug\net8.0\ex01.deps.json
+D:\JordiMontilivi\Visual Studio\source\repos\Activitat 1.5\ex01\bin\Debug\net8.0\ex01.runtimeconfig.json
+D:\JordiMontilivi\Visual Studio\source\repos\Activitat 1.5\ex01\bin\Debug\net8.0\ex01.dll
+D:\JordiMontilivi\Visual Studio\source\repos\Activitat 1.5\ex01\bin\Debug\net8.0\ex01.pdb
+D:\JordiMontilivi\Visual Studio\source\repos\Activitat 1.5\ex01\obj\Debug\net8.0\ex01.GeneratedMSBuildEditorConfig.editorconfig
+D:\JordiMontilivi\Visual Studio\source\repos\Activitat 1.5\ex01\obj\Debug\net8.0\ex01.AssemblyInfoInputs.cache
+D:\JordiMontilivi\Visual Studio\source\repos\Activitat 1.5\ex01\obj\Debug\net8.0\ex01.AssemblyInfo.cs
+D:\JordiMontilivi\Visual Studio\source\repos\Activitat 1.5\ex01\obj\Debug\net8.0\ex01.csproj.CoreCompileInputs.cache
+D:\JordiMontilivi\Visual Studio\source\repos\Activitat 1.5\ex01\obj\Debug\net8.0\ex01.dll
+D:\JordiMontilivi\Visual Studio\source\repos\Activitat 1.5\ex01\obj\Debug\net8.0\refint\ex01.dll
+D:\JordiMontilivi\Visual Studio\source\repos\Activitat 1.5\ex01\obj\Debug\net8.0\ex01.pdb
+D:\JordiMontilivi\Visual Studio\source\repos\Activitat 1.5\ex01\obj\Debug\net8.0\ex01.genruntimeconfig.cache
+D:\JordiMontilivi\Visual Studio\source\repos\Activitat 1.5\ex01\obj\Debug\net8.0\ref\ex01.dll
